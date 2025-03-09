@@ -1,4 +1,4 @@
 # Справочник по тригонометрии
 <li class="masthead__menu-item">
-          <a href="https://github.com/cvtqwert/TrigoChit/blob/b1f02a3aea58566281c4089739845119d68ab0da/213">Research</a>
+          <a href="https://github.com/cvtqwert/TrigoChit/blob/0f1886d01d35880d2afd3369d4644ba84c744caa/213.html">Research</a>
         </li>
