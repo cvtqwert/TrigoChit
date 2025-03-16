@@ -10,4 +10,5 @@
  <li class="masthead__menu-item">         <a href="https://cvtqwert.github.io/TrigoChit/page3.html">Графики тригонометрических функций</a> </li>
         
 </ul>
+<p id="select" onclick="darkLight()" style="cursor: help;">Включить тёмную тему</p>
 </body>
