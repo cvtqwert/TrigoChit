@@ -12,3 +12,4 @@
 </ul>
 <p id="select" onclick="darkLight()" style="cursor: help;">Включить тёмную тему</p>
 </body>
+<script type="text/javascript" src="dark.js"></script>
