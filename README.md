@@ -1,4 +1,13 @@
+.theme-dark {
+  background: black;
+  color: white;
+}
 
+.theme-light {
+  background: white;
+  color: black;
+}
+<body id="main">
 ## Справочник по тригонометрии
 <p>Тригонометрия — раздел математики, в котором изучаются зависимости между величинами углов и длинами сторон треугольников, а также алгебраические тождества тригонометрических функций.</p>
 
@@ -9,3 +18,4 @@
  <li class="masthead__menu-item">         <a href="https://cvtqwert.github.io/TrigoChit/page3.html">Графики тригонометрических функций</a> </li>
         
 </ul>
+</body>
